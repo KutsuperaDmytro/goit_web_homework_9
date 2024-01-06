@@ -1,0 +1,350 @@
+[
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/author/Albert-Einstein"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/author/J-K-Rowling"
+    },
+    {
+        "name": "Jane Austen",
+        "url": "http://quotes.toscrape.com/author/Jane-Austen"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "url": "http://quotes.toscrape.com/author/Marilyn-Monroe"
+    },
+    {
+        "name": "Andr\u00e9 Gide",
+        "url": "http://quotes.toscrape.com/author/Andre-Gide"
+    },
+    {
+        "name": "Thomas A. Edison",
+        "url": "http://quotes.toscrape.com/author/Thomas-A-Edison"
+    },
+    {
+        "name": "Eleanor Roosevelt",
+        "url": "http://quotes.toscrape.com/author/Eleanor-Roosevelt"
+    },
+    {
+        "name": "Steve Martin",
+        "url": "http://quotes.toscrape.com/author/Steve-Martin"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "url": "http://quotes.toscrape.com/page/2/author/Marilyn-Monroe"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/2/author/J-K-Rowling"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/2/author/Albert-Einstein"
+    },
+    {
+        "name": "Bob Marley",
+        "url": "http://quotes.toscrape.com/page/2/author/Bob-Marley"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/2/author/Dr-Seuss"
+    },
+    {
+        "name": "Douglas Adams",
+        "url": "http://quotes.toscrape.com/page/2/author/Douglas-Adams"
+    },
+    {
+        "name": "Elie Wiesel",
+        "url": "http://quotes.toscrape.com/page/2/author/Elie-Wiesel"
+    },
+    {
+        "name": "Friedrich Nietzsche",
+        "url": "http://quotes.toscrape.com/page/2/author/Friedrich-Nietzsche"
+    },
+    {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/page/2/author/Mark-Twain"
+    },
+    {
+        "name": "Allen Saunders",
+        "url": "http://quotes.toscrape.com/page/2/author/Allen-Saunders"
+    },
+    {
+        "name": "Pablo Neruda",
+        "url": "http://quotes.toscrape.com/page/3/author/Pablo-Neruda"
+    },
+    {
+        "name": "Ralph Waldo Emerson",
+        "url": "http://quotes.toscrape.com/page/3/author/Ralph-Waldo-Emerson"
+    },
+    {
+        "name": "Mother Teresa",
+        "url": "http://quotes.toscrape.com/page/3/author/Mother-Teresa"
+    },
+    {
+        "name": "Garrison Keillor",
+        "url": "http://quotes.toscrape.com/page/3/author/Garrison-Keillor"
+    },
+    {
+        "name": "Jim Henson",
+        "url": "http://quotes.toscrape.com/page/3/author/Jim-Henson"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/3/author/Dr-Seuss"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/3/author/Albert-Einstein"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/3/author/J-K-Rowling"
+    },
+    {
+        "name": "Bob Marley",
+        "url": "http://quotes.toscrape.com/page/3/author/Bob-Marley"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/4/author/Dr-Seuss"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/4/author/J-K-Rowling"
+    },
+    {
+        "name": "Bob Marley",
+        "url": "http://quotes.toscrape.com/page/4/author/Bob-Marley"
+    },
+    {
+        "name": "Mother Teresa",
+        "url": "http://quotes.toscrape.com/page/4/author/Mother-Teresa"
+    },
+    {
+        "name": "Charles M. Schulz",
+        "url": "http://quotes.toscrape.com/page/4/author/Charles-M-Schulz"
+    },
+    {
+        "name": "William Nicholson",
+        "url": "http://quotes.toscrape.com/page/4/author/William-Nicholson"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/4/author/Albert-Einstein"
+    },
+    {
+        "name": "Jorge Luis Borges",
+        "url": "http://quotes.toscrape.com/page/4/author/Jorge-Luis-Borges"
+    },
+    {
+        "name": "George Eliot",
+        "url": "http://quotes.toscrape.com/page/4/author/George-Eliot"
+    },
+    {
+        "name": "George R.R. Martin",
+        "url": "http://quotes.toscrape.com/page/5/author/George-R-R-Martin"
+    },
+    {
+        "name": "C.S. Lewis",
+        "url": "http://quotes.toscrape.com/page/5/author/C-S-Lewis"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "url": "http://quotes.toscrape.com/page/5/author/Marilyn-Monroe"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/5/author/Albert-Einstein"
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "url": "http://quotes.toscrape.com/page/5/author/Martin-Luther-King-Jr"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/5/author/J-K-Rowling"
+    },
+    {
+        "name": "James Baldwin",
+        "url": "http://quotes.toscrape.com/page/5/author/James-Baldwin"
+    },
+    {
+        "name": "Jane Austen",
+        "url": "http://quotes.toscrape.com/page/6/author/Jane-Austen"
+    },
+    {
+        "name": "Eleanor Roosevelt",
+        "url": "http://quotes.toscrape.com/page/6/author/Eleanor-Roosevelt"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "url": "http://quotes.toscrape.com/page/6/author/Marilyn-Monroe"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/6/author/Albert-Einstein"
+    },
+    {
+        "name": "Haruki Murakami",
+        "url": "http://quotes.toscrape.com/page/6/author/Haruki-Murakami"
+    },
+    {
+        "name": "Alexandre Dumas fils",
+        "url": "http://quotes.toscrape.com/page/6/author/Alexandre-Dumas-fils"
+    },
+    {
+        "name": "Stephenie Meyer",
+        "url": "http://quotes.toscrape.com/page/6/author/Stephenie-Meyer"
+    },
+    {
+        "name": "Ernest Hemingway",
+        "url": "http://quotes.toscrape.com/page/6/author/Ernest-Hemingway"
+    },
+    {
+        "name": "Helen Keller",
+        "url": "http://quotes.toscrape.com/page/6/author/Helen-Keller"
+    },
+    {
+        "name": "George Bernard Shaw",
+        "url": "http://quotes.toscrape.com/page/6/author/George-Bernard-Shaw"
+    },
+    {
+        "name": "Charles Bukowski",
+        "url": "http://quotes.toscrape.com/page/7/author/Charles-Bukowski"
+    },
+    {
+        "name": "Suzanne Collins",
+        "url": "http://quotes.toscrape.com/page/7/author/Suzanne-Collins"
+    },
+    {
+        "name": "C.S. Lewis",
+        "url": "http://quotes.toscrape.com/page/7/author/C-S-Lewis"
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "url": "http://quotes.toscrape.com/page/7/author/J-R-R-Tolkien"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/7/author/J-K-Rowling"
+    },
+    {
+        "name": "Ernest Hemingway",
+        "url": "http://quotes.toscrape.com/page/7/author/Ernest-Hemingway"
+    },
+    {
+        "name": "Ralph Waldo Emerson",
+        "url": "http://quotes.toscrape.com/page/7/author/Ralph-Waldo-Emerson"
+    },
+    {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/page/7/author/Mark-Twain"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/7/author/Dr-Seuss"
+    },
+    {
+        "name": "Alfred Tennyson",
+        "url": "http://quotes.toscrape.com/page/8/author/Alfred-Tennyson"
+    },
+    {
+        "name": "Charles Bukowski",
+        "url": "http://quotes.toscrape.com/page/8/author/Charles-Bukowski"
+    },
+    {
+        "name": "Terry Pratchett",
+        "url": "http://quotes.toscrape.com/page/8/author/Terry-Pratchett"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/8/author/Dr-Seuss"
+    },
+    {
+        "name": "J.D. Salinger",
+        "url": "http://quotes.toscrape.com/page/8/author/J-D-Salinger"
+    },
+    {
+        "name": "George Carlin",
+        "url": "http://quotes.toscrape.com/page/8/author/George-Carlin"
+    },
+    {
+        "name": "John Lennon",
+        "url": "http://quotes.toscrape.com/page/8/author/John-Lennon"
+    },
+    {
+        "name": "W.C. Fields",
+        "url": "http://quotes.toscrape.com/page/8/author/W-C-Fields"
+    },
+    {
+        "name": "Ayn Rand",
+        "url": "http://quotes.toscrape.com/page/8/author/Ayn-Rand"
+    },
+    {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/page/8/author/Mark-Twain"
+    },
+    {
+        "name": "Albert Einstein",
+        "url": "http://quotes.toscrape.com/page/9/author/Albert-Einstein"
+    },
+    {
+        "name": "Jane Austen",
+        "url": "http://quotes.toscrape.com/page/9/author/Jane-Austen"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/9/author/J-K-Rowling"
+    },
+    {
+        "name": "C.S. Lewis",
+        "url": "http://quotes.toscrape.com/page/9/author/C-S-Lewis"
+    },
+    {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/page/9/author/Mark-Twain"
+    },
+    {
+        "name": "J.K. Rowling",
+        "url": "http://quotes.toscrape.com/page/10/author/J-K-Rowling"
+    },
+    {
+        "name": "Jimi Hendrix",
+        "url": "http://quotes.toscrape.com/page/10/author/Jimi-Hendrix"
+    },
+    {
+        "name": "J.M. Barrie",
+        "url": "http://quotes.toscrape.com/page/10/author/J-M-Barrie"
+    },
+    {
+        "name": "E.E. Cummings",
+        "url": "http://quotes.toscrape.com/page/10/author/E-E-Cummings"
+    },
+    {
+        "name": "Khaled Hosseini",
+        "url": "http://quotes.toscrape.com/page/10/author/Khaled-Hosseini"
+    },
+    {
+        "name": "Harper Lee",
+        "url": "http://quotes.toscrape.com/page/10/author/Harper-Lee"
+    },
+    {
+        "name": "Madeleine L'Engle",
+        "url": "http://quotes.toscrape.com/page/10/author/Madeleine-LEngle"
+    },
+    {
+        "name": "Mark Twain",
+        "url": "http://quotes.toscrape.com/page/10/author/Mark-Twain"
+    },
+    {
+        "name": "Dr. Seuss",
+        "url": "http://quotes.toscrape.com/page/10/author/Dr-Seuss"
+    },
+    {
+        "name": "George R.R. Martin",
+        "url": "http://quotes.toscrape.com/page/10/author/George-R-R-Martin"
+    }
+]
